@@ -1,2 +1,2 @@
-# hautedmound.com parser
+# hauntedmound.com parser
 Small script that parses website
